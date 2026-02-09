@@ -1,9 +1,9 @@
 # UAS Kriptografi dan Steganografi
 
-**Nama**  : AKMAL FAUZI
-**NIM**   : 230401010160
-**Kelas**  : IF 502
-**Prodi**  : S1 PJJ Informatika
+**Nama**  : AKMAL FAUZI<br>
+**NIM**   : 230401010160<br>
+**Kelas**  : IF 502<br>
+**Prodi**  : S1 PJJ Informatika<br>
 **Mata Kuliah** : Kriptografi dan Steganografi
 
 ---
